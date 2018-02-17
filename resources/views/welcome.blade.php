@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Bilal Khawar
                 </div>
 
                 <div class="links">
