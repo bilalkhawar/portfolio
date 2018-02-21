@@ -10,10 +10,7 @@
 
     <title>Bilal</title>
 
-    <!-- Bootstrap core CSS -->
     <link href="{{asset('css/bootstrap.min.css')}}" rel="stylesheet">
-
-    <!-- Custom fonts for this template -->
     <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:100,200,300,400,500,600,700,800,900" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i" rel="stylesheet">
     <link href="{{asset('css/devicons.min.css')}}" rel="stylesheet">
@@ -63,8 +60,8 @@
 
         <section class="resume-section p-3 p-lg-5 d-flex d-column" id="about">
             <div class="my-auto">
-                <h1 class="mb-0">Clarence
-                    <span class="text-primary">Taylor</span>
+                <h1 class="mb-0">Bilal
+                    <span class="text-primary">Khawar</span>
                 </h1>
                 <div class="subheading mb-5">3542 Berry Street · Cheyenne Wells, CO 80810 · (317) 585-8468 ·
                     <a href="mailto:name@email.com">name@email.com</a>
