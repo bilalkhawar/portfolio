@@ -24,7 +24,8 @@
 
 <body id="page-top">
 
-    @yield('sidebar')
+    @section('sidebar')
+    @show
 
     <div class="container-fluid p-0">
         @yield('about')
