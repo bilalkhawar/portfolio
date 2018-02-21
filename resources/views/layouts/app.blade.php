@@ -24,15 +24,15 @@
 
 <body id="page-top">
 
-    @yield('sidebar')
+    @include('sidebar')
 
     <div class="container-fluid p-0">
-        @yield('about')
-        @yield('experience')
-        @yield('education')
-        @yield('skills')
-        @yield('interests')
-        @yield('awards')
+        @include('about')
+        @include('experience')
+        @include('education')
+        @include('skills')
+        @include('interests')
+        @include('awards')
     </div>
 
     <!-- JavaScript -->
