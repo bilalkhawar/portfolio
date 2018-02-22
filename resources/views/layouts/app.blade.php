@@ -17,7 +17,7 @@
     <link href="{{asset('css/font-awesome.min.css')}}" rel="stylesheet">
     <link href="{{asset('css/devicons.min.css')}}" rel="stylesheet">
     <link href="{{asset('css/simple-line-icons.css')}}" rel="stylesheet">
-    <link href="{{asset('css/resume.min.css')}}" rel="stylesheet">
+    <link href="{{asset('css/resume.css')}}" rel="stylesheet">
 
 </head>
 
@@ -315,7 +315,7 @@
     <script src="{{asset('js/jquery-3.3.1.min.js')}}"></script>
     <script src="{{asset('js/bootstrap.bundle.min.js')}}"></script>
     <script src="{{asset('js/jquery.easing.min.js')}}"></script>
-    <script src="{{asset('js/resume.min.js')}}"></script>
+    <script src="{{asset('js/resume.js')}}"></script>
 
 </body>
 
