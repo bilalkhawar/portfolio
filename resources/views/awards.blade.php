@@ -1,6 +1,6 @@
 <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="awards">
     <div class="my-auto">
-        <h2 class="mb-5">Awards &amp; Certifications</h2>
+        <h2 class="mb-5">Awards</h2>
         <ul class="fa-ul mb-0">
             <li class="mb-2">
                 <i class="fa-li fa fa-trophy text-warning"></i>
