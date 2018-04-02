@@ -12,5 +12,10 @@
 */
 
 Route::get('/', function () {
-    return view('layouts.app');
+    return view('sections');
+});
+
+Route::get('/resume', function () {
+    $path = storage_path('app/public/resume.pdf');
+    return response()->download($path);
 });

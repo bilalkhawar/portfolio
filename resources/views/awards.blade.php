@@ -2,39 +2,17 @@
     <div class="my-auto">
         <h2 class="mb-5">Awards &amp; Certifications</h2>
         <ul class="fa-ul mb-0">
-            <li>
+            <li class="mb-2">
                 <i class="fa-li fa fa-trophy text-warning"></i>
-                Google Analytics Certified Developer
+                <strong>Certificate of appreciation from the Government of Canada</strong> - Awarded for contribution to the community
             </li>
-            <li>
+            <li class="mb-2">
                 <i class="fa-li fa fa-trophy text-warning"></i>
-                Mobile Web Specialist - Google Certification
+                <strong>Most Valuable Player (Cricket)</strong> - Awarded for leadership and outstanding performance for the senior cricket team
             </li>
-            <li>
+            <li class="mb-2">
                 <i class="fa-li fa fa-trophy text-warning"></i>
-                1<sup>st</sup>
-                Place - University of Colorado Boulder - Emerging Tech Competition 2009
-            </li>
-            <li>
-                <i class="fa-li fa fa-trophy text-warning"></i>
-                1<sup>st</sup>
-                Place - University of Colorado Boulder - Adobe Creative Jam 2008 (UI Design Category)
-            </li>
-            <li>
-                <i class="fa-li fa fa-trophy text-warning"></i>
-                2<sup>nd</sup>
-                Place - University of Colorado Boulder - Emerging Tech Competition 2008
-            </li>
-            <li>
-            <li>
-                <i class="fa-li fa fa-trophy text-warning"></i>
-                1<sup>st</sup>
-                Place - James Buchanan High School - Hackathon 2006
-            </li>
-            <li>
-                <i class="fa-li fa fa-trophy text-warning"></i>
-                3<sup>rd</sup>
-                Place - James Buchanan High School - Hackathon 2005
+                <strong>President’s Scholarship</strong> - Awarded the entrance scholarship of $2000 for 90+ average
             </li>
         </ul>
     </div>
