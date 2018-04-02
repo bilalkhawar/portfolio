@@ -16,6 +16,6 @@ Route::get('/', function () {
 });
 
 Route::get('/resume', function () {
-    $path = storage_path('app/public/resume.pdf');
+    $path = storage_path('app/resume.pdf');
     return response()->download($path);
 });
