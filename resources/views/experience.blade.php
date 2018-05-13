@@ -3,10 +3,26 @@
         <h2 class="mb-5">Experience</h2>
         <div class="resume-item d-flex flex-column flex-md-row mb-5">
             <div class="resume-content mr-auto">
+                <h3 class="mb-0">iOS Developer</h3>
+                <div class="subheading mb-3">EcoBin</div>
+                <p>
+                    Developed an iOS application for the EcoBin Smart-Composter. Enabled communication of temperature readings from the Arduino to the mobile app via the
+                    Core Bluetooth framework. Implemented remote notifications to alert users of the composting process through the Apple Push Notification service.
+                </p>
+            </div>
+            <div class="resume-date text-md-right">
+                <span class="text-primary">January 2018 - April 2018</span>
+            </div>
+        </div>
+        <div class="resume-item d-flex flex-column flex-md-row mb-5">
+            <div class="resume-content mr-auto">
                 <h3 class="mb-0">Web Developer & Systems Analyst</h3>
                 <div class="subheading mb-3">McMaster University</div>
                 <p>
-                	Created a mobile-friendly and responsive web application using Laravel and PHP. Designed and setup a relational database for the website. Used Bootstrap, Javascript and jQuery to develop front-end features. Developed the web application by following the model–view–controller (MVC) architectural pattern. Generated reports from the database as PDFs. Implemented authentication and routed users according to their ranks. Added a functional and secure login system. Created a controls panel for the administrator at the Dean's office so that the database tables could be updated. Performed cross browser testing and debugging.
+                	Created a mobile-friendly and responsive web application using Laravel and PHP. Designed and setup a relational database for the website. Used Bootstrap,
+                    Javascript and jQuery to develop front-end features. Developed the web application by following the model–view–controller (MVC) architectural pattern.
+                    Generated reports from the database as PDFs. Implemented authentication and routed users according to their ranks. Added a functional and secure login system.
+                    Created a controls panel for the administrator at the Dean's office so that the database tables could be updated. Performed cross browser testing and debugging.
                 </p>
             </div>
             <div class="resume-date text-md-right">

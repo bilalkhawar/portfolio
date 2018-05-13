@@ -10,13 +10,28 @@
                 <i class="devicons devicons-php" data-toggle="tooltip" title="PHP"></i>
             </li>
             <li class="list-inline-item">
-                <i class="devicons devicons-swift" data-toggle="tooltip" title="Swift"></i>
-            </li>
-            <li class="list-inline-item">
                 <i class="devicons devicons-python" data-toggle="tooltip" title="Python"></i>
             </li>
             <li class="list-inline-item">
+                <i class="devicons devicons-swift" data-toggle="tooltip" title="Swift"></i>
+            </li>
+            <li class="list-inline-item">
+                <i class="devicons devicons-apple" data-toggle="tooltip" title="iOS Development"></i>
+            </li>
+            <li class="list-inline-item">
                 <i class="devicons devicons-laravel" data-toggle="tooltip" title="Laravel"></i>
+            </li>
+            <li class="list-inline-item">
+                <i class="devicons devicons-react" data-toggle="tooltip" title="React"></i>
+            </li>
+            <li class="list-inline-item">
+                <i class="devicons devicons-javascript" data-toggle="tooltip" title="JavaScript"></i>
+            </li>
+            <li class="list-inline-item">
+                <i class="devicons devicons-jquery" data-toggle="tooltip" title="jQuery"></i>
+            </li>
+            <li class="list-inline-item">
+                <i class="devicons devicons-bootstrap" data-toggle="tooltip" title="Bootstrap"></i>
             </li>
             <li class="list-inline-item">
                 <i class="devicons devicons-html5" data-toggle="tooltip" title="HTML5"></i>
@@ -25,13 +40,7 @@
                 <i class="devicons devicons-css3" data-toggle="tooltip" title="CSS3"></i>
             </li>
             <li class="list-inline-item">
-                <i class="devicons devicons-bootstrap" data-toggle="tooltip" title="Bootstrap"></i>
-            </li>
-            <li class="list-inline-item">
-                <i class="devicons devicons-javascript" data-toggle="tooltip" title="JavaScript"></i>
-            </li>
-            <li class="list-inline-item">
-                <i class="devicons devicons-jquery" data-toggle="tooltip" title="jQuery"></i>
+                <i class="devicons devicons-git" data-toggle="tooltip" title="Git"></i>
             </li>
             <li class="list-inline-item">
                 <i class="devicons devicons-mysql" data-toggle="tooltip" title="MySQL"></i>
@@ -44,19 +53,23 @@
         <ul class="fa-ul mb-0">
             <li>
                 <i class="fa-li fa fa-check"></i>
+                Skilled in <strong>iOS App Development</strong>
+            </li>
+            <li>
+                <i class="fa-li fa fa-check"></i>
                 Experienced in <strong>Full-Stack Web Development</strong>
             </li>
             <li>
                 <i class="fa-li fa fa-check"></i>
-                Knowledgeable in <strong>App Development</strong>, especially for the <strong>iOS</strong> platform
+                Good understanding of computer <strong>data structures</strong>, <strong>algorithms</strong>, and software <strong>design patterns</strong>
+            </li>
+            <li>
+                <i class="fa-li fa fa-check"></i>
+                Knowledgeable in <strong>Object Oriented Programming</strong>, <strong>Test-Driven Development</strong> and <strong>Agile Manifesto</strong>
             </li>
             <li>
                 <i class="fa-li fa fa-check"></i>
                 Familiar with PLCs and Micro-controller Systems; worked with an <strong>Arduino UNO</strong>
-            </li>
-            <li>
-                <i class="fa-li fa fa-check"></i>
-                Good understanding of computer <strong>data structures</strong>, <strong>algorithms</strong>, and software <strong>design patterns</strong>
             </li>
             <li>
                 <i class="fa-li fa fa-check"></i>
