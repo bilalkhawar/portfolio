@@ -4,15 +4,6 @@
         <div class="subheading mb-3">Programming Languages &amp; Tools</div>
         <ul class="list-inline list-icons">
             <li class="list-inline-item">
-                <i class="devicons devicons-java" data-toggle="tooltip" title="Java"></i>
-            </li>
-            <li class="list-inline-item">
-                <i class="devicons devicons-php" data-toggle="tooltip" title="PHP"></i>
-            </li>
-            <li class="list-inline-item">
-                <i class="devicons devicons-python" data-toggle="tooltip" title="Python"></i>
-            </li>
-            <li class="list-inline-item">
                 <i class="devicons devicons-swift" data-toggle="tooltip" title="Swift"></i>
             </li>
             <li class="list-inline-item">
@@ -22,13 +13,22 @@
                 <i class="devicons devicons-laravel" data-toggle="tooltip" title="Laravel"></i>
             </li>
             <li class="list-inline-item">
-                <i class="devicons devicons-react" data-toggle="tooltip" title="React"></i>
+                <i class="devicons devicons-java" data-toggle="tooltip" title="Java"></i>
+            </li>
+            <li class="list-inline-item">
+                <i class="devicons devicons-php" data-toggle="tooltip" title="PHP"></i>
+            </li>
+            <li class="list-inline-item">
+                <i class="devicons devicons-python" data-toggle="tooltip" title="Python"></i>
             </li>
             <li class="list-inline-item">
                 <i class="devicons devicons-javascript" data-toggle="tooltip" title="JavaScript"></i>
             </li>
             <li class="list-inline-item">
                 <i class="devicons devicons-jquery" data-toggle="tooltip" title="jQuery"></i>
+            </li>
+            <li class="list-inline-item">
+                <i class="devicons devicons-react" data-toggle="tooltip" title="React"></i>
             </li>
             <li class="list-inline-item">
                 <i class="devicons devicons-bootstrap" data-toggle="tooltip" title="Bootstrap"></i>
@@ -53,7 +53,7 @@
         <ul class="fa-ul mb-0">
             <li>
                 <i class="fa-li fa fa-check"></i>
-                Skilled in <strong>iOS App Development</strong>
+                Skilled in <strong>iOS App Development</strong> with multiple years of experience in <strong>Swift</strong> and <strong>Objective-C</strong>
             </li>
             <li>
                 <i class="fa-li fa fa-check"></i>
