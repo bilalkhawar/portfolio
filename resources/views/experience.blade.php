@@ -7,9 +7,11 @@
                 <div class="subheading mb-3">Audiobooks.com</div>
                 <p>
                     Sole developer for the RBdigital iOS application with 54K daily active users.
-                    Added multilingual support for the app. Fixed many reoccurring bugs which led to
-                    an increase in user retention and daily user engagement. Built an in-app browser
-                    for an American subscription streaming service.
+                    Added multilingual support through localization. Built an in-app browser for
+                    Acorn TV using WebKit. Initiated continuous integration practices in order to
+                    simplify and streamline software processes for engineers. Redesigned the app and
+                    improved performance which led to an increase in customer acquisition and user
+                    engagement.
                 </p>
             </div>
             <div class="resume-date text-md-right">

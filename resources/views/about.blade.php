@@ -9,13 +9,12 @@
         <p class="mb-5">
             Experienced in iOS mobile application development as well as full-stack web development
             with a good understanding of data structures, algorithms and design patterns. Co-founder
-            and senior developer at BearStacks Development, a company dedicated to developing innovative
-            mobile applications with four applications on the Apple App Store. Worked extensively with
-            Laravel, a PHP framework for web development. Experienced with front-end development using
-            React, Javascript, ES6, jQuery, Ajax, SASS and Bootstrap. Skilled in programming languages
-            Java, PHP, C, Swift, Objective-C and Python. Proficient with database design and setting up
-            relational databases. Knowledgeable in Object Oriented Programming, Test-Driven Development
-            and the Agile Manifesto.
+            of BearStacks Development, a company dedicated to developing innovative mobile applications
+            with multiple applications on the Apple App Store. Worked extensively with Laravel, a PHP
+            framework, for web development. Experienced with front-end development using React, Javascript,
+            ES6, jQuery, Ajax, SASS and Bootstrap. Skilled in programming languages Objective-C, Swift, Java,
+            C, PHP and Python. Proficient with database design and setting up relational databases.
+            Knowledgeable in Object Oriented Programming, Test-Driven Development and the Agile Manifesto.
         </p>
         <ul class="list-inline list-social-icons mb-0">
             <li class="list-inline-item">
